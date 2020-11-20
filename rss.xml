@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>우진정밀</title>
+    <link>http://www.example.com/</link>
+    <description>프레스금형,멀티포밍,금형제작,판스프링</description>
+    <item>
+      <title>프레스금형</title>
+      <link>https://woojinforming.github.io/body_press.html</link>
+      <description>프레스금형</description>
+    </item>
+    <item>
+      <title>멀티포밍</title>
+      <link>https://woojinforming.github.io/body_multiforming.html</link>
+      <description>멀티포밍</description>
+    </item>
+    <item>
+      <title>금형제작</title>
+      <link>https://woojinforming.github.io/body_,manufactuing_die.html</link>
+      <description>금형제작</description>
+    </item>
+    <item>
+      <title>위치및연락</title>
+      <link>https://woojinforming.github.io/body_contact.html</link>
+      <description>위치및연락</description>
+    </item>
+
+  </channel>
+</rss>
